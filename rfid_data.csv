@@ -1,0 +1,91 @@
+Parcel #,Checkpoint,Scan Timestamp,RFID Tag,Location
+Parcel 1,Origin,2025-04-25 09:02:27,RFID0001,Cebu
+Parcel 1,Transit Hub,2025-04-28 06:26:57,RFID0001,Transit Hub
+Parcel 1,Destination,2025-05-01 03:51:27,RFID0001,Zamboanga
+Parcel 2,Origin,2025-05-05 11:18:27,RFID0002,Davao
+Parcel 2,Transit Hub,2025-05-08 09:57:27,RFID0002,Transit Hub
+Parcel 2,Destination,2025-05-11 08:36:27,RFID0002,Taguig
+Parcel 3,Origin,2025-05-01 08:38:27,RFID0003,Manila
+Parcel 3,Transit Hub,2025-05-04 17:03:57,RFID0003,Transit Hub
+Parcel 3,Destination,2025-05-08 01:29:27,RFID0003,Makati
+Parcel 4,Origin,2025-05-07 04:32:27,RFID0004,Cebu
+Parcel 4,Transit Hub,2025-05-08 17:47:57,RFID0004,Transit Hub
+Parcel 4,Destination,2025-05-10 07:03:27,RFID0004,Baguio
+Parcel 5,Origin,2025-04-12 10:34:27,RFID0005,Quezon City
+Parcel 5,Transit Hub,2025-04-12 22:22:57,RFID0005,Transit Hub
+Parcel 5,Destination,2025-04-13 10:11:27,RFID0005,Taguig
+Parcel 6,Origin,2025-06-07 11:29:46,RFID0006,Baguio
+Parcel 6,Transit Hub,2025-06-11 07:27:16,RFID0006,Transit Hub
+Parcel 6,Destination,2025-06-15 03:24:46,RFID0006,Iloilo
+Parcel 7,Origin,2025-06-14 08:43:46,RFID0007,Iloilo
+Parcel 7,Transit Hub,2025-06-14 22:33:46,RFID0007,Transit Hub
+Parcel 7,Destination,2025-06-15 12:23:46,RFID0007,Cebu
+Parcel 8,Origin,2025-06-10 00:09:46,RFID0008,Baguio
+Parcel 8,Transit Hub,2025-06-12 16:41:46,RFID0008,Transit Hub
+Parcel 8,Destination,2025-06-15 09:13:46,RFID0008,Manila
+Parcel 9,Origin,2025-06-06 09:52:46,RFID0009,Zamboanga
+Parcel 9,Transit Hub,2025-06-09 18:49:46,RFID0009,Transit Hub
+Parcel 9,Destination,2025-06-13 03:46:46,RFID0009,Pasig
+Parcel 10,Origin,2025-06-03 10:10:46,RFID0010,Cavite
+Parcel 10,Transit Hub,2025-06-05 06:44:16,RFID0010,Transit Hub
+Parcel 10,Destination,2025-06-07 03:17:46,RFID0010,Cebu
+Parcel 11,Origin,2025-06-15 04:44:46,RFID0011,Cebu
+Parcel 11,Transit Hub,2025-06-18 14:22:46,RFID0011,Transit Hub
+Parcel 11,Destination,2025-06-22 00:00:46,RFID0011,Makati
+Parcel 12,Origin,2025-06-04 07:04:46,RFID0012,Davao
+Parcel 12,Transit Hub,2025-06-05 15:51:46,RFID0012,Transit Hub
+Parcel 12,Destination,2025-06-07 00:38:46,RFID0012,Cebu
+Parcel 13,Origin,2025-05-21 08:48:46,RFID0013,Caloocan
+Parcel 13,Transit Hub,2025-05-23 17:33:16,RFID0013,Transit Hub
+Parcel 13,Destination,2025-05-26 02:17:46,RFID0013,Baguio
+Parcel 14,Origin,2025-06-13 08:43:46,RFID0014,Taguig
+Parcel 14,Transit Hub,2025-06-14 06:36:46,RFID0014,Transit Hub
+Parcel 14,Destination,2025-06-15 04:29:46,RFID0014,Caloocan
+Parcel 15,Origin,2025-06-06 02:08:46,RFID0015,Manila
+Parcel 15,Transit Hub,2025-06-08 03:49:16,RFID0015,Transit Hub
+Parcel 15,Destination,2025-06-10 05:29:46,RFID0015,Cavite
+Parcel 16,Origin,2025-06-08 06:56:14,RFID0016,Iloilo
+Parcel 16,Transit Hub,2025-06-12 06:53:14,RFID0016,Transit Hub
+Parcel 16,Destination,2025-06-16 06:50:14,RFID0016,Davao
+Parcel 17,Origin,2025-05-31 07:37:14,RFID0017,Bulacan
+Parcel 17,Transit Hub,2025-06-02 16:02:44,RFID0017,Transit Hub
+Parcel 17,Destination,2025-06-05 00:28:14,RFID0017,Cebu
+Parcel 18,Origin,2025-05-26 05:42:14,RFID0018,Bulacan
+Parcel 18,Transit Hub,2025-05-29 05:24:14,RFID0018,Transit Hub
+Parcel 18,Destination,2025-06-01 05:06:14,RFID0018,Davao
+Parcel 19,Origin,2025-05-31 08:30:14,RFID0019,Baguio
+Parcel 19,Transit Hub,2025-06-03 17:27:44,RFID0019,Transit Hub
+Parcel 19,Destination,2025-06-07 02:25:14,RFID0019,Manila
+Parcel 20,Origin,2025-06-14 07:46:14,RFID0020,Zamboanga
+Parcel 20,Transit Hub,2025-06-15 07:23:14,RFID0020,Transit Hub
+Parcel 20,Destination,2025-06-16 07:00:14,RFID0020,Manila
+Parcel 21,Origin,2025-06-13 02:46:14,RFID0021,Cebu
+Parcel 21,Transit Hub,2025-06-15 14:32:44,RFID0021,Transit Hub
+Parcel 21,Destination,2025-06-18 02:19:14,RFID0021,Davao
+Parcel 22,Origin,2025-06-12 00:14:14,RFID0022,Cebu
+Parcel 22,Transit Hub,2025-06-13 03:44:44,RFID0022,Transit Hub
+Parcel 22,Destination,2025-06-14 07:15:14,RFID0022,Caloocan
+Parcel 23,Origin,2025-05-30 02:33:14,RFID0023,Pasig
+Parcel 23,Transit Hub,2025-06-02 02:27:14,RFID0023,Transit Hub
+Parcel 23,Destination,2025-06-05 02:21:14,RFID0023,Iloilo
+Parcel 24,Origin,2025-05-24 11:24:14,RFID0024,Cebu
+Parcel 24,Transit Hub,2025-05-26 23:10:14,RFID0024,Transit Hub
+Parcel 24,Destination,2025-05-29 10:56:14,RFID0024,Iloilo
+Parcel 25,Origin,2025-06-14 04:35:14,RFID0025,Taguig
+Parcel 25,Transit Hub,2025-06-17 03:52:14,RFID0025,Transit Hub
+Parcel 25,Destination,2025-06-20 03:09:14,RFID0025,Cavite
+Parcel 26,Origin,2025-05-27 08:16:14,RFID0026,Zamboanga
+Parcel 26,Transit Hub,2025-05-28 08:40:14,RFID0026,Transit Hub
+Parcel 26,Destination,2025-05-29 09:04:14,RFID0026,Manila
+Parcel 27,Origin,2025-05-29 09:10:14,RFID0027,Cebu
+Parcel 27,Transit Hub,2025-05-31 07:48:14,RFID0027,Transit Hub
+Parcel 27,Destination,2025-06-02 06:26:14,RFID0027,Zamboanga
+Parcel 28,Origin,2025-05-29 00:06:14,RFID0028,Davao
+Parcel 28,Transit Hub,2025-05-31 16:05:44,RFID0028,Transit Hub
+Parcel 28,Destination,2025-06-03 08:05:14,RFID0028,Taguig
+Parcel 29,Origin,2025-05-23 06:18:14,RFID0029,Cavite
+Parcel 29,Transit Hub,2025-05-24 15:11:14,RFID0029,Transit Hub
+Parcel 29,Destination,2025-05-26 00:04:14,RFID0029,Caloocan
+Parcel 30,Origin,2025-05-28 09:19:14,RFID0030,Bulacan
+Parcel 30,Transit Hub,2025-05-28 21:52:14,RFID0030,Transit Hub
+Parcel 30,Destination,2025-05-29 10:25:14,RFID0030,Cebu
